@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: rgb(112, 235, 123);
-    font-family: cursive;
+    font-family:monospace;
 }
 
 .calender-container {
